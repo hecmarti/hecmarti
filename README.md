@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **completing 42Ecoles proyects**
 
-- 🌱 I’m currently learning **Cibersecurity and Java**
+- 🌱 I’m currently learning **Cibersecurity, C and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hecmarti](https://github.com/hecmarti)
 
